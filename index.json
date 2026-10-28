@@ -1,0 +1,11 @@
+{
+  "org": "databrickslabs",
+  "repo": "databricks-network-policy-helper",
+  "versions": [
+    {
+      "commit": "cc4d847a805f4252278fbe82d162785af7b68959",
+      "tag": "v0.8.1",
+      "parsed_at": "2026-10-28T13:21:16.430786+00:00"
+    }
+  ]
+}
