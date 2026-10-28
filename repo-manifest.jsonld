@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/databrickslabs/databricks-network-policy-helper/commit/cc4d847a805f4252278fbe82d162785af7b68959",
       "git:hexsha": "cc4d847a805f4252278fbe82d162785af7b68959",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.8.1"
     },
     {
